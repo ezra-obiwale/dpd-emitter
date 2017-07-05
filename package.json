@@ -1,0 +1,31 @@
+{
+  "name": "dpd-emitter",
+  "version": "1.0.0",
+  "description": "Emit events for every collection CRUD operation except Read",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezra-obiwale/dpd-emitter.git"
+  },
+  "dependencies": {
+    "debug": "^2.3.2",
+    "monkeypatch": "^1.0.0"
+  },
+  "keywords": [
+    "dpdmodule",
+    "deployd",
+    "dpd",
+    "socket",
+    "websocket",
+    "emit"
+  ],
+  "author": "Ezra Obiwale <contact@ezraobiwale.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezra-obiwale/dpd-emitter/issues"
+  },
+  "homepage": "https://github.com/ezra-obiwale/dpd-emitter#readme"
+}
