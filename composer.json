@@ -1,0 +1,28 @@
+{
+    "name": "dpd-emitter",
+    "description": "Emit events for every collection CRUD operation",
+    "type": "library",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ezra-obiwale/dpd-emitter.git"
+    },
+    "authors": [
+        {
+            "name": "Ezra Obiwale",
+            "email": "contact@ezraobiwale.com"
+        }
+    ],
+    "keywords": [
+        "dpdmodule",
+        "deployd",
+        "dpd",
+        "socket",
+        "websocket",
+        "emit"
+    ],
+    "dependencies": {
+        "monkeypatch": "^1.0.0"
+    },
+    "require": {}
+}
